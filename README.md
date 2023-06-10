@@ -1,10 +1,12 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media2.giphy.com/media/AYECTMLNS4o67dCoeY/giphy.gif" alt="cover"/>
+<img align="right" width="500px" alt="moto" src="https://i.imgur.com/sREDmpJ.gif"/>
 </div>  
   
 
-### <div align="center">I'm Rupayan,an  Android addict, Java junkie, Kotlin connoisseur, Flutter fanatic - Let's build something together! 🚀</div>  
-  
+
+## <div align="center">I'm Roy</div></br>
+### <div align="left">An Android addict, Java junkie, Kotlin connoisseur, Flutter fanatic - Let's build something together! 🚀</div>  
+</br>
 
 - 🔭 I’m currently a student  
   
@@ -22,7 +24,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -37,7 +39,7 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 
 
@@ -55,7 +57,7 @@
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+
 
 
 
@@ -64,7 +66,9 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me
+<br></br>
+
 <div align="center">
 <a href="https://github.com/https://github.com/Rup-Royofficial" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,11 +85,15 @@
 </div>  
   
 
-<br/> 
+<br></br>
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rup-Royofficial&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rup-Royofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Statistics"/></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rup-Royofficial&theme=dark&hide_border=false" alt="Streaks"/></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rup-Royofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages"/></br>
+</p>
 
 <br/>  
 
@@ -93,6 +101,28 @@
 
 <br/>  
 
+
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rup-Royofficial&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
+</p>
+
+
+<br></br>
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+
+<br></br>
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rup-Royofficial&limit=5&theme=discord&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+<br></br>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5enbw7so8xrq1n7c0i15mv74y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
@@ -108,4 +138,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
