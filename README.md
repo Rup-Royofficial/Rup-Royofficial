@@ -11,7 +11,7 @@
 - 🔭 I’m currently a student  
   
 
-- 🌱 I’m currently learning AsyncTask and RxJava in android along with flutter designs  
+- 🌱 I’m currently learning AsyncTask and RxJava in Android along with Flutter designing
   
 
 - ❓ Ask me about anything related to Android dev and related technologies  
