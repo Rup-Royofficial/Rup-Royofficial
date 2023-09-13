@@ -123,7 +123,6 @@
 </p>
 
 <br></br>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5enbw7so8xrq1n7c0i15mv74y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
