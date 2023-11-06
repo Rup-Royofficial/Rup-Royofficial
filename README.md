@@ -5,7 +5,7 @@
 
 
 ## <div align="center">Hi 👋,  I'm Roy</div></br>
-### <div align="left">An Android addict, Java junkie, Kotlin connoisseur, Flutter fanatic - Let's build something together! 🚀</div>  
+### <div align="left">An Android addict, Java junkie, Flutter fanatic - Let's build something together! 🚀</div>  
 </br>
 
 - 🔭 I’m currently a student  
