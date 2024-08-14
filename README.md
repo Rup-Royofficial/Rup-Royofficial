@@ -5,23 +5,23 @@
 
 
 ## <div align="center">Hi 👋,  I'm Roy</div></br>
-### <div align="left">An Android addict, Java junkie, Flutter fanatic - Let's build something together! 🚀</div>  
+### <div align="left">Driven Full Stack Developer, Thriving on Learning and Growth</div>  
 </br>
 
 - 🔭 I’m currently a student  
   
 
-- 🌱 I’m currently learning AsyncTask and RxJava in Android along with Flutter UI designing
+- 🌱 I’m currently learning Full Stack Web Dev
   
 
-- ❓ Ask me about anything related to Android dev and related technologies  
+<!--- ❓ Ask me about anything related to Android dev and related technologies  
   
 
 - ⚡ Fun fact: I will start project from scratch(again) if I don't like where it's going  
   
 
 <br/>  
-
+-->
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -90,7 +90,7 @@
 
 ## Github Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rup-Royofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Statistics"/></br>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Rup-Royofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Statistics"/></br> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rup-Royofficial&theme=dark&hide_border=false" alt="Streaks"/></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rup-Royofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages"/></br>
 </p>
