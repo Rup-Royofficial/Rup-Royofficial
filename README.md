@@ -6,7 +6,7 @@
 
 ## <div align="center">Hi 👋,  I'm Roy</div></br>
 ### <div align="left">Driven Full Stack Developer, Thriving on Learning and Growth</div>  
-</br>
+<!--</br>-->
 
 - 🔭 I’m currently a student  
   
