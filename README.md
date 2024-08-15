@@ -6,7 +6,7 @@
 
 ## <div align="center">Hi 👋,  I'm Roy</div></br>
 ### <div align="left">Driven Full Stack Developer, Thriving on Learning and Growth</div>  
-<!--</br>-->
+</br>
 
 - 🔭 I’m currently a student  
   
@@ -19,9 +19,9 @@
 
 - ⚡ Fun fact: I will start project from scratch(again) if I don't like where it's going  
   
-
-<br/>  
 -->
+<br/>  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
